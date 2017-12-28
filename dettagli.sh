@@ -13,3 +13,9 @@ omxplayer -o hdmi -vol -1200 $AUDIOPATH
 fi
 done
 
+while false; do
+if 1+1
+then
+echo "haha"
+
+done
